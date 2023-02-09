@@ -21,6 +21,18 @@
 					"defaultDiagram": true,
 					"ownedViews": [
 						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAGGNzcqv4BL4jY=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 24,
+							"top": 16,
+							"width": 665,
+							"height": 745
+						},
+						{
 							"_type": "UMLClassView",
 							"_id": "AAAAAAGGNKHiY+lP8iU=",
 							"_parent": {

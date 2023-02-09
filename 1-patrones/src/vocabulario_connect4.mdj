@@ -1,7 +1,7 @@
 {
 	"_type": "Project",
 	"_id": "AAAAAAFF+h6SjaM2Hec=",
-	"name": "Untitled",
+	"name": "Conecta-4",
 	"ownedElements": [
 		{
 			"_type": "UMLModel",
@@ -20,6 +20,18 @@
 					"name": "Main",
 					"defaultDiagram": true,
 					"ownedViews": [
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAGGNzTxNPCFOTk=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 112,
+							"top": 8,
+							"width": 937,
+							"height": 881
+						},
 						{
 							"_type": "UMLClassView",
 							"_id": "AAAAAAGGM9kbVdwjB8Q=",
@@ -7309,7 +7321,7 @@
 									"font": "Arial;13;0",
 									"left": 783,
 									"top": 399,
-									"width": 12.65087890625,
+									"width": 13.83154296875,
 									"height": 13,
 									"alpha": 0.07430669221283981,
 									"distance": 107.54068997360952,
